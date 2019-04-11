@@ -1,7 +1,7 @@
 {
   "name": "Collection App",
   "short_name": "CA",
-  "display": "Browser",
+  "display": "Fullscreen",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "https://aboutbhushan.github.io/pwa.github.io/index.html",
