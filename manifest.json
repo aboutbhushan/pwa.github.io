@@ -4,7 +4,7 @@
   "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "/index.html",
+  "start_url": "/pwa.github.io/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
