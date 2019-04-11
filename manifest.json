@@ -1,8 +1,8 @@
 {
   "name": "Collection App",
   "short_name": "CA",
-  "display": "standalone",
-  "orientation": "portrait",
+  "display": "Fullscreen",
+  "orientation": "Portrait",
   "Scope": "/",
   "start_url": "https://aboutbhushan.github.io/pwa.github.io/index.html",
   "icons": [
@@ -47,9 +47,5 @@
       "type": "image/png"
     }
   ],
-  "splash_pages": null,
-  "related_applications": [{
-    "platform": "play",
-    "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
-  }]
+  "splash_pages": null
 }
